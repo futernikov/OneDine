@@ -1,0 +1,6 @@
+<!--
+ - Created by Eugene Lanets on 12.10.2020.
+ -->
+
+<apex:page id="DetailQuotePage" standardController="SBQQ__Quote__c" showHeader="false" sidebar="false" cache="false" extensions="DetailQuotePageController" action="{!init}">
+</apex:page>

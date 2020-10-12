@@ -1,0 +1,7 @@
+<!--
+ - Created by Eugene Lanets on 12.10.2020.
+ -->
+
+<apex:page id="DetailQuoteTemplatePDF" renderAs="pdf" standardStylesheets="false"  contentType="application/pdf#DetailQuoteTemplatePDF.pdf" applyBodyTag="false" applyHtmlTag="false" sidebar="false" showHeader="false">
+<!--    Template Content-->
+</apex:page>

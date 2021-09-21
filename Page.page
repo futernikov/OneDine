@@ -1,0 +1,12 @@
+<!--
+ - Created by Eugene Lanets on 20.11.2020.
+ -->
+
+<apex:page id="el_HardwareOnlyPage" standardController="SBQQ__Quote__c" showHeader="false" sidebar="false" cache="false" extensions="el_HardwareOnlyPageController" action="{!init}">
+    <apex:pageBlock >
+        <apex:pageMessages id="msgId"/>
+    </apex:pageBlock>
+    <apex:form >
+        <apex:commandButton action="{!backToQuote}" value="Back to Quote" ></apex:commandButton>
+    </apex:form>
+</apex:page>
